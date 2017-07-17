@@ -2,7 +2,7 @@
 
 lets see this time.
 
-child this time
+child this time 2
 
 conflicts b1
 
